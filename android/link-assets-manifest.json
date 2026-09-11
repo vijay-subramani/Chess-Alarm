@@ -1,0 +1,89 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/alarm.wav",
+      "sha1": "2902cb0a00e41ba72a8a762a8b05104de158861f"
+    },
+    {
+      "path": "assets/app-icon.svg",
+      "sha1": "a8c39ed9ac841caff643a0662476540038759959"
+    },
+    {
+      "path": "assets/chess-pieces/neo/bb.png",
+      "sha1": "890def73f65d1308ea7f7f172d17e97870b7e35e"
+    },
+    {
+      "path": "assets/chess-pieces/neo/bk.png",
+      "sha1": "78326a9d28f1e206449846078c98bcf24e44d1ed"
+    },
+    {
+      "path": "assets/chess-pieces/neo/bn.png",
+      "sha1": "457eac887df84b2f28f9d83bb039c993da76d7da"
+    },
+    {
+      "path": "assets/chess-pieces/neo/bp.png",
+      "sha1": "72c0cc00a85841021fa1eaa6d11c9d317701f5a5"
+    },
+    {
+      "path": "assets/chess-pieces/neo/bq.png",
+      "sha1": "554831e915ceca38a4c98dd3845c5bc4710e2d87"
+    },
+    {
+      "path": "assets/chess-pieces/neo/br.png",
+      "sha1": "40233d6fc5d7db5174ac07156af0101a68e29f85"
+    },
+    {
+      "path": "assets/chess-pieces/neo/wb.png",
+      "sha1": "65765d023d0dab92ca54cb28cc492eb51454d467"
+    },
+    {
+      "path": "assets/chess-pieces/neo/wk.png",
+      "sha1": "a3b53d7258c48ca5387519353d1efd70a5237659"
+    },
+    {
+      "path": "assets/chess-pieces/neo/wn.png",
+      "sha1": "9af035e65a500f1b5eb7db3eb5657eaf4ae23a04"
+    },
+    {
+      "path": "assets/chess-pieces/neo/wp.png",
+      "sha1": "e71b8630d0b479e567e2c2e0b9293a36e9d28b67"
+    },
+    {
+      "path": "assets/chess-pieces/neo/wq.png",
+      "sha1": "3dcbbc3087c570369c6b3821b1c5202b96d8a680"
+    },
+    {
+      "path": "assets/chess-pieces/neo/wr.png",
+      "sha1": "59b30acd5fa1ee27f1140512ecd966a1de61f8af"
+    },
+    {
+      "path": "assets/fonts/Fraunces-Bold.ttf",
+      "sha1": "be0892e8a942dd56dc7f26235f5af8c01f676d4d"
+    },
+    {
+      "path": "assets/fonts/Sora-Regular.ttf",
+      "sha1": "dbee2c4c57653c69a492a073f526b78deef7717a"
+    },
+    {
+      "path": "assets/sounds/alarm_chime.wav",
+      "sha1": "65f2372edf2c16cf9c6e9ceb8cfe997ee034e0a5"
+    },
+    {
+      "path": "assets/sounds/alarm_classic.wav",
+      "sha1": "2902cb0a00e41ba72a8a762a8b05104de158861f"
+    },
+    {
+      "path": "assets/sounds/alarm_digital.wav",
+      "sha1": "bc2d52e97e4a12c0ad5c4f925edfd428b73bbda3"
+    },
+    {
+      "path": "assets/sounds/alarm_gentle.wav",
+      "sha1": "f9cd562caa486f7897f591ed7fcf58d6b1f2584d"
+    },
+    {
+      "path": "assets/sounds/alarm_urgent.wav",
+      "sha1": "719264728d802436af54bd7689a1243e8fd5c60b"
+    }
+  ]
+}

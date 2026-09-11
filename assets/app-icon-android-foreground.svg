@@ -1,0 +1,29 @@
+<svg width="108" height="108" viewBox="0 0 108 108" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="100" y2="100" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#58C040" />
+      <stop offset="100%" stop-color="#2A621A" />
+    </linearGradient>
+  </defs>
+  <!-- Scale artwork into Android adaptive-icon safe zone (~66dp of 108dp). -->
+  <g transform="translate(54 54) scale(0.64) translate(-50 -50)">
+    <path d="M15,32 C15,14 43,14 43,32 Z" fill="white" />
+    <path d="M57,32 C57,14 85,14 85,32 Z" fill="white" />
+    <rect x="44" y="18" width="12" height="3.5" rx="1.75" fill="white" />
+    <circle cx="50" cy="19.5" r="4" fill="white" />
+    <circle cx="50" cy="63" r="32" fill="white" />
+    <circle cx="50" cy="63" r="25" fill="url(#g)" />
+    <rect x="48.5" y="40.5" width="3" height="5" rx="1.5" fill="white" opacity="0.65" />
+    <rect x="67.5" y="61.5" width="5" height="3" rx="1.5" fill="white" opacity="0.65" />
+    <rect x="48.5" y="80.5" width="3" height="5" rx="1.5" fill="white" opacity="0.65" />
+    <rect x="27.5" y="61.5" width="5" height="3" rx="1.5" fill="white" opacity="0.65" />
+    <circle cx="50" cy="52" r="7.5" fill="white" />
+    <rect x="47.5" y="59.5" width="5" height="4.5" rx="1.2" fill="white" />
+    <path d="M42,64 L58,64 L56,69 L44,69 Z" fill="white" />
+    <path d="M39.5,74 L60.5,74 L58,69 L42,69 Z" fill="white" />
+    <rect x="39.5" y="73" width="21" height="4" rx="2" fill="white" />
+    <rect x="36" y="93" width="28" height="5.5" rx="2.75" fill="white" />
+    <ellipse cx="34.5" cy="96.5" rx="6.5" ry="4.5" fill="white" />
+    <ellipse cx="65.5" cy="96.5" rx="6.5" ry="4.5" fill="white" />
+  </g>
+</svg>
